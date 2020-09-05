@@ -15,14 +15,17 @@ public class CarpetCalculatorMain {
   
       RoomCarpet carpet = new RoomCarpet();
       
+      //get length of room
       System.out.println("Enter the length of the room");
       carpet.size.length = scanner.nextDouble();
       
+      //get width of room
       System.out.println("Enter the width of the room");
       carpet.size.width = scanner.nextDouble();
       
       double area = carpet.size.getArea();
       
+      //get the cost per square foot of carpet
       System.out.println("Enter the cost per square foot of of carpet");
       carpet.carpetCost = scanner.nextDouble();
       

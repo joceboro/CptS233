@@ -6,6 +6,7 @@ public class RoomDimension {
    public RoomDimension() {
    }
    
+   //Calculate the area of the room
    double getArea() {
       return(length * width);
    }
