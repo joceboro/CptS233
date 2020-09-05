@@ -2,10 +2,8 @@
 Jocelyn Borovich
 CptS 233: MicroAssignment #1
 9/4/2020
-gitRepo url: 
+gitRepo url: https://github.com/joceboro/CptS233/tree/master/MA%231
 */
-
-
 
 import java.util.*;
 
