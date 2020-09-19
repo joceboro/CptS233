@@ -2,7 +2,7 @@
 Jocelyn Borovich
 CptS 233: PA #1
 9/18/2020
-gitRepo url: https://github.com/joceboro/CptS233/tree/master/MA%231
+gitRepo url:https://github.com/joceboro/CptS233/tree/master/PA1-Benchmarking
 */
 
 import java.util.*; 
